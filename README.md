@@ -1,2 +1,1 @@
-# deploy-a-web-app-amazon
-how to deploy web app to amazon
+# Host Your Resume on AWS EC2 with a CI/CD Setup Using GitHub Actions
