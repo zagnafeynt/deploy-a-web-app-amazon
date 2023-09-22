@@ -3,6 +3,7 @@ name: Push-to-EC2
 # Trigger deployment only on push to main branch
 # just commit2
 # just commit3333
+# just commit4
 on:
   push:
     branches:
